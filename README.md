@@ -1,5 +1,6 @@
-# cc-academic-publishers
-List of Academic Publishers with a creative commons license (e.g. CC-BY)
+# Creative Commons-licensed Academic Publishers
+
+_List of Academic Publishers with a creative commons license (e.g. CC-BY)_
 
 ## CC-BY 4.0
 
