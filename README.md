@@ -16,3 +16,5 @@ PLOS is a nonprofit, Open Access publisher empowering researchers to accelerate 
 **[Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)** [[license](https://jmlr.org/forms/jmlr-license-agreement-2017.pdf)]\
 The Journal of Machine Learning Research (JMLR), established in 2000, provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. All published papers are freely available online. 
 
+**[Scientific Reports](https://www.nature.com/srep/about)** [[license](https://www.nature.com/srep/open-access)]\
+Scientific Reports is an open access journal publishing original research from across all areas of the natural sciences, psychology, medicine and engineering. Covers all areas of the natural sciences, psychology, medicine and engineering. Offers our authors a highly respected home for their research. High visibility for your work with open access
